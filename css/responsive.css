@@ -1,1 +1,116 @@
- 
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+    /* slider part start */
+    .slider-bg {
+        padding: 0px;
+        text-align: center;
+    }
+    .slider-bg h2 {
+        font-size: 20px;
+    }
+    .slider-bg p {
+        font-size: 12px;
+        line-height: 14px;
+        padding: 0px 135px;
+    }
+    .slider-bg h3 {
+        font-size: 15px;
+        margin-top: -13px;
+    }
+    /* Its for slider button */
+    .slider-bg a {
+        font-size: 8px;
+        padding: 4px 3px;
+        margin-bottom: 20px;
+        margin-top: -5px;
+    }
+    /* Its for slider imge */
+    .slider-bg img {
+        width: 20%;
+    }
+    /* slider part emd */
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* slider part start */
+    .slider-bg {
+        padding: 10px;
+    }
+    .slider-bg h2 {
+        font-size: 20px;
+        padding-top: 0px;
+    }
+    .slider-bg p {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 0px 0px;
+        margin-top: -6px;
+    }
+    .slider-bg h3 {
+        font-size: 20px;
+        margin-top: -17px;
+    }
+    /* Its for slider button */
+    .slider-bg a {
+        font-size: 10px;
+        padding: 5px 4px;
+        margin-bottom: 0px;
+        margin-top: -11px;
+    }
+    /* Its for slider img */
+    .slider-bg img {
+        width: 50%;
+        margin-left: 24px;
+    }
+    /* slider part end */
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* slider part start */
+    .slider-bg {
+        padding: 23px;
+    }
+    .slider-bg h2 {
+        font-size: 38px;
+        padding-top: 0px;
+    }
+    .slider-bg p {
+        font-size: 16px;
+        line-height: 28px;
+        padding: 0px 0px;
+    }
+    .slider-bg h3 {
+        font-size: 26px;
+        margin-top: -13px;
+    }
+    /* Its for button */
+    .slider-bg a {
+        font-size: 10px;
+        padding: 5px 6px;
+        margin-bottom: 0px;
+    }
+    /* Its for slider img */
+    .slider-bg img {
+        width: 65%;
+        margin-left: 33px;
+        margin-top: -55px;
+    }
+    /* slider part end */
+}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}

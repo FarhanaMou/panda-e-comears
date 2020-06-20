@@ -44,6 +44,9 @@ html {
     font-weight: bold;
 }
 
+
+/* Its for slider button */
+
 .slider-bg a {
     font-size: 12px;
     background: #ea1a68;
@@ -59,7 +62,11 @@ html {
     border: 2px solid #ea1a68;
     color: #ea1a68;
     background: #ffffff;
+    transition: 1s all ease;
 }
+
+
+/* Its for slider img */
 
 .slider-bg img {
     width: 80%;
