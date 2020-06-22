@@ -46,6 +46,82 @@
         width: 50px;
     }
     /* categories part end */
+    /* shoes brand start */
+    #shoes-brand-part {
+        padding: 0px 196px;
+    }
+    .brand-card {
+        width: 160px;
+        margin-bottom: 10px;
+    }
+    .brand-name h2 {
+        font-size: 18px;
+        padding-bottom: 0px;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .brand-card img {
+        width: 60px;
+        margin-left: 44px;
+    }
+    .card-title {
+        font-size: 14px;
+        text-align: center;
+        margin-top: -18px;
+    }
+    .brand-card p {
+        font-size: 10px;
+        line-height: 13px;
+        margin-top: -10px;
+        text-align: center;
+    }
+    .coustom-price {
+        font-size: 12px;
+        padding-bottom: 0px;
+        text-align: center;
+        margin-top: -15px;
+    }
+    .btn-color {
+        font-size: 7px;
+        padding: 3px 2px;
+        margin-bottom: 0px;
+        margin-left: 37px;
+        margin-top: -12px;
+    }
+    /* shoes brand end */
+    /* backpack-brand-part start */
+    #backpack-brand-part {
+        padding: 0px 196px;
+    }
+    /* backpack-brand-part end */
+    /* submit area start */
+    .submit-top {
+        margin-top: -16px;
+    }
+    .submit-top h2 {
+        font-size: 14px;
+    }
+    .submit-top h3 {
+        font-size: 10px;
+    }
+    .email-form {
+        padding: 0px 191px;
+        margin-bottom: 5px;
+    }
+    .email-text {
+        font-size: 12px;
+    }
+    .submit-btn {
+        margin-right: 0px;
+        padding: 2px 6px;
+        font-size: 10px;
+    }
+    /* submit area end */
+    /* footer area start */
+    .designer h2 {
+        font-size: 12px;
+    }
+    /* footer area end */
 }
 
 
@@ -92,13 +168,85 @@
         margin-bottom: 10px;
     }
     .coustom-categorie h2 {
-        font-size: 20px;
+        font-size: 18px;
         padding: 10px;
     }
     .categorie-item img {
         width: 50px;
     }
     /* categories part end */
+    /* shoes brand start */
+    #shoes-brand-part {
+        padding: 0px 178px;
+    }
+    .brand-card {
+        width: 200px;
+        margin-bottom: 15px;
+    }
+    .brand-name h2 {
+        font-size: 20px;
+        padding-bottom: 3px;
+        text-align: center;
+    }
+    .brand-card img {
+        width: 70px;
+        margin-left: 65px;
+    }
+    .card-title {
+        font-size: 18px;
+        text-align: center;
+        margin-top: -14px;
+    }
+    .brand-card p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: -7px;
+        text-align: center;
+    }
+    .coustom-price {
+        font-size: 18px;
+        padding-bottom: 0px;
+        text-align: center;
+        margin-top: -13px;
+    }
+    .btn-color {
+        font-size: 8px;
+        padding: 4px 4px;
+        margin-bottom: 0px;
+        margin-left: 53px;
+        margin-top: -12px;
+    }
+    /* shoes brand end */
+    /* backpack-brand-part start */
+    #backpack-brand-part {
+        padding: 0px 178px;
+    }
+    /* backpack-brand-part end */
+    /* submit area start */
+    .submit-top {
+        margin-top: -10px;
+    }
+    .submit-top h2 {
+        font-size: 20px;
+    }
+    .submit-top h3 {
+        font-size: 12px;
+    }
+    .email-form {
+        padding: 0px 157px;
+        margin-bottom: 10px;
+    }
+    .submit-btn {
+        margin-right: 0px;
+        padding: 4px 13px;
+        font-size: 14px;
+    }
+    /* submit area end */
+    /* footer area start */
+    .designer h2 {
+        font-size: 14px;
+    }
+    /* footer area end */
 }
 
 
@@ -149,12 +297,96 @@
         width: 60px;
     }
     /* categories part end */
+    /* shoes brand start */
+    #shoes-brand-part {
+        padding: 0px 0px;
+        margin-bottom: 16px;
+    }
+    .brand-card {
+        width: 219px;
+    }
+    .brand-name h2 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    .brand-card img {
+        width: 78%;
+    }
+    .card-title {
+        font-size: 20px;
+        margin-top: -19px;
+        margin-bottom: 5px;
+    }
+    .brand-card p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .coustom-price {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .btn-color {
+        padding: 5px 4px;
+        margin-bottom: 15px;
+    }
+    /* shoes brand end */
+    /* backpack-brand-part start */
+    #backpack-brand-part {
+        padding: 0px 0px;
+        margin-bottom: 16px;
+    }
+    /* backpack-brand-part end */
+    /* submit area start */
+    .email-form {
+        padding: 0px 206px;
+        margin-bottom: 12px;
+    }
+    /* submit area end */
 }
 
 
 /* Large devices (desktops, 992px and up) */
 
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* shoes brand start */
+    #shoes-brand-part {
+        padding: 5px 0px;
+        margin-bottom: 20px;
+    }
+    .brand-card {
+        width: 270px;
+    }
+    .card-title {
+        font-size: 20px;
+        margin-top: -4px;
+        margin-bottom: 12px;
+    }
+    .brand-card p {
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    .coustom-price {
+        font-size: 24px;
+        padding-bottom: 10px;
+    }
+    .btn-color {
+        padding: 8px 12px;
+        margin-bottom: 10px;
+    }
+    /* shoes brand end */
+    /* backpack-brand start*/
+    #backpack-brand-part {
+        padding: 5px 0px;
+        margin-bottom: 20px;
+    }
+    /* backpack-brand end*/
+    /* submit area start */
+    .email-form {
+        padding: 0px 324px;
+    }
+    /* submit area end */
+}
 
 
 /* Extra large devices (large desktops, 1200px and up) */
